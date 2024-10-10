@@ -4,7 +4,7 @@
       "commandName": "Project",
       "commandLineArgs": "%userprofile%\\Documents\\fullstack\\back-end\\.net\\SeedData",
       "environmentVariables": {
-        "DBPATH": ""
+        "DBPATH": "C:\\Users\\frida.cano\\Documents\\NET\\fullstack\\fullstack.db"
       }
     }
   }

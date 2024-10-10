@@ -3,7 +3,7 @@
     "Application": {
       "commandName": "Project",
       "environmentVariables": {
-        "DBPATH": ""
+        "DBPATH": "C:\\Users\\frida.cano\\Documents\\NET\\fullstack\\fullstack.db"
       }
     }
   }
